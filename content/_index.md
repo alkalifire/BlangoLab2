@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: The Blango Lab
 date: 2022-10-24
 type: landing
 
@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        RNA Biology of Fungal Infections
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The Junior Research Group **RNA Biology of Fungal Infections** explores the role of RNA during human fungal infection since 2020.
   
   - block: collection
     content:
