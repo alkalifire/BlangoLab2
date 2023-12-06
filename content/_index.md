@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The Junior Research Group **RNA Biology of Fungal Infections** explores the role of RNA during human fungal infection since 2020.
+        Where RNA meets fungi! 
   
   - block: collection
     content:
