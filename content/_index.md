@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        RNA Biology of Fungal Infections
+        RNA Biology of Fungal Infections @ Leibniz-HKI
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        Where RNA meets fungi! 
-  
+        At the intersection of RNA and fungal pathogenesis!
+        
   - block: collection
     content:
       title: Latest News
@@ -37,18 +37,19 @@ sections:
   
   - block: markdown
     content:
-      title:
+      title: Funding Sources
       subtitle: ''
       text:
+        ![jpg](bmbflogo.jpg)
     design:
-      columns: '1'
+      columns: '2'
       background:
         image: 
-          filename: coders.jpg
+          filename: bmbflogo.jpg
           filters:
             brightness: 1
           parallax: false
-          position: center
+          position: left
           size: cover
           text_color_light: true
       spacing:
