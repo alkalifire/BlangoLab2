@@ -24,4 +24,11 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+
+  - block: markdown
+    content:
+      title: 
+      subtitle:
+      text: | 
+        ![jpg](group.jpg)
 ---

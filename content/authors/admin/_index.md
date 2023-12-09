@@ -18,7 +18,7 @@ organizations:
     url: 'https://www.leibniz-hki.de/en/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Matt was a postdoctoral fellow and small group leader at the Leibniz-HKI in Jena, Germany with Prof. Axel Brakhage studying fungal biology and pathogenesis. His work centered on the conidial (spore) surface proteome, the extracellular vesicle biology of host-pathogenesis, and the importance of non-coding RNA in fungi. He earned his PhD in Microbiology and Immunology studying the pathogenesis and biochemistry of uropathogenic Escherichia coli with Prof. Matt Mulvey at the University of Utah. He followed his PhD with a postdoctoral fellowship also at the University of Utah defining the endogenous pool of double-stranded RNA in mammalian immune cells with Prof. Brenda Bass. 
+bio: 
 
 interests:
   - Fungi

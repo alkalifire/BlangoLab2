@@ -8,19 +8,19 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
+      - title: Welcome to the group!
+        content: Read more about our work below...
+        align: left
         background:
           image:
             filename: page2.jpeg
             filters:
               brightness: 0.7
-          position: right
+          position: left
           color: '#666'
-      - title: Jena - Science City
-        content: 'An international hub for fungal research'
-        align: left
+      - title: We bring together fungi and RNA
+        content: ''
+        align: center
         background:
           image:
             filename: featured.jpg
@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Bringing together fungi and RNA
+      - title: Located in Science City Jena
         content: ''
         align: right
         background:
@@ -39,18 +39,18 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: 
           icon_pack: fas
           text: Join Us
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
+      slide_height: '200px'
+      is_fullscreen: false
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
 
   - block: markdown
     content:
