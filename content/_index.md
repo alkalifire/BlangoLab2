@@ -55,7 +55,6 @@ sections:
       image:
         filename: afu2.jpg
       text: |
-        
   - block: markdown
     content:
       title:
