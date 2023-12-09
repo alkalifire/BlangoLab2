@@ -39,8 +39,7 @@ sections:
     content:
       title: Funding Sources
       subtitle: ''
-      text:
-        ![jpg](bmbflogo.jpg)
+      text: ''
     design:
       columns: '2'
       background:
