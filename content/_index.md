@@ -50,11 +50,12 @@ sections:
   - block: hero
     content:
       title: |
-        **<div style="text-align: center">The Blango Lab</div>** 
-          ## <div style="text-align: center"><span style="color:darkred">Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)</span></div> ##
+          **<div style="text-align: center">The Blango Lab</div>**
+          ## <div style="text-align: center">Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)</div> ##
       image:
         filename: afu2.jpg
       text: |
+
   - block: markdown
     content:
       title:
