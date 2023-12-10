@@ -1,6 +1,6 @@
 ---
 title: The lab's first research publication! 
-date: 2020-12-02
+date: 2023-06-01
 image:
   focal_point: ''
 ---

@@ -6,7 +6,7 @@ header:
   caption: ""
   image: ""
 share: false
-title: Terms
+title: Legal Notice
 ---
 
 ## **Operator of this website** ##
@@ -22,6 +22,69 @@ This website was compiled with utmost care. Nevertheless, no guarantee can be gi
 
 
 ## WEB DESIGN AND WEB DEVELOPMENT: ##  
-Matthew G. Blango
+Matthew G. Blango   
+    <br>
+    
+## **Impressum** (in German) ##  
+**Angaben gemäß § 5 TMG**  
+
+Matthew Blango  
+The Blango Lab  
+Beutenberg Str. 11a  
+07745 Jena  
+
+**Kontakt**
+
+Telefon: +49 (0) 3641 532 1072  
+E-Mail: matthew.blango@leibniz-hki.de   
+
+**Berufsbezeichnung und berufsrechtliche Regelungen**  
+
+Berufsbezeichnung:  
+Junior Group Leader
+
+**Redaktionell verantwortlich**  
+
+Matthew G. Blango   
+Beutenberg Str. 11a  
+07745, Jena
+
+**Verbraucherstreitbeilegung/Universalschlichtungsstelle**  
+
+Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.  
+  <br>
+
+
+## **Impressum** (in English) ##  
+**Information according to § 5 TMG**  
+
+Matthew Blango  
+The Blango Lab  
+Beutenberg Str. 11a  
+07745 Jena  
+
+**Contact Information**
+
+Telephone: +49 (0) 3641 532 1072  
+E-Mail: matthew.blango@leibniz-hki.de   
+
+**Professional title and professional regulations**  
+
+Professional Title:  
+Junior Group Leader
+
+**Editorially Responsible**  
+
+Matthew G. Blango   
+Beutenberg Str. 11a  
+07745, Jena
+
+**Verbraucherstreitbeilegung/Universalschlichtungsstelle**  
+
+Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+
+  **Quelle:**  
+  eRecht24
 
 ---
