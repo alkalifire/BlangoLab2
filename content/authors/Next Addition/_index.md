@@ -1,16 +1,14 @@
 ---
 authors:
-- Valentina Lazarova
+- Next Student
 bio:  
 education:
-email: "valentina.lazarova@leibniz-hki.de"
+email: 
 interests:
-- tRNA modifications
-- Pathogenic fungi!
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/home.html"
-role: Doctoral Researcher
+role: This could be you!
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -25,7 +23,7 @@ social:
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 superuser: false
-title: Valentina Lazarova
+title: Researcher
 user_groups:
 - Researchers
 ---
