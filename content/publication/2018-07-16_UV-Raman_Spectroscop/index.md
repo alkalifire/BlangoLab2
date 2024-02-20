@@ -24,7 +24,7 @@ publishDate: "2018-07-16"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["Journal article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Analytical Chemistry, (90), 15, _pp. 8912--8918_, https://doi.org/10.1021/acs.analchem.8b01038"

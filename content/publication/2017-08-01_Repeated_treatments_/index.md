@@ -20,7 +20,7 @@ publishDate: "2017-08-01"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["Journal article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Infectious Diseases, (216), 3, _pp. 375--381_, https://doi.org/10.1093/infdis/jix023"
