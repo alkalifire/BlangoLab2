@@ -15,7 +15,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2024-02-20"
-doi: "https://oi.org/10.1101/2024.02.19.578369"
+doi: "https://doi.org/10.1101/2024.02.19.578369"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-02-20"
@@ -27,7 +27,7 @@ publishDate: "2024-02-20"
 publication_types: ["Preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv, https://oi.org/10.1101/2024.02.19.578369"
+publication: "bioRxiv, https://doi.org/10.1101/2024.02.19.578369"
 publication_short: ""
 
 abstract: Increasing antifungal drug resistance is a major concern associated with human fungal infections. Genetic mutation and epimutation mechanisms are clear drivers of resistance, yet the epitranscriptome remains relatively untested regarding resistance. Here, deletion of the Aspergillus fumigatus tRNA-modifying isopentenyl transferase ortholog, Mod5, led to altered stress response and unexpected resistance against the antifungal drug 5-fluorocytosine (5-FC). Simultaneous profiling of transcriptomes and proteomes revealed comparable general adaptation to 5-FC stress; however, a premature activation of cross-pathway control (CPC) genes in the knockout was further increased after antifungal treatment. By associating codon usage patterns with proteomics abundances, we observed a negative correlation with the number of tRNATyrGΨA-decoded codons in the knockout, indicative of modification-tuneable transcripts. Subsequent overexpression of tRNATyrGΨA in the ∆mod5 strain rescued select phenotypes but failed to reverse 5-FC resistance. Investigation of the purported tRNA gene-mediated silencing function of Mod5 uncovered a negative correlation between tRNA proximity and gene induction under normal growth, indicating an active pathway. In conclusion, 5-FC resistance in the absence of Mod5 likely originates from multifaceted transcriptional and translational changes that skew the fungus towards starvation responses over optimal growth, offering a mechanism reliant on RNA modification and tRNA gene-mediated silencing to facilitate transient antifungal resistance.
@@ -42,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://oi.org/10.1101/2024.02.19.578369
+url_pdf: https://doi.org/10.1101/2024.02.19.578369
 url_code: ''
 url_dataset: ''
 url_poster: ''
