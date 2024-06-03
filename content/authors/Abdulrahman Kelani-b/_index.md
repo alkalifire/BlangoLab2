@@ -28,7 +28,7 @@ social:
 superuser: false
 title: Abdulrahman Kelani
 user_groups:
-- Researchers
+- Alumni
 ---
 
 __Tell me more__
