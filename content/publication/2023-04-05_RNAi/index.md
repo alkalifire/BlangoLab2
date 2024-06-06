@@ -1,7 +1,7 @@
 ---
 title: "Disruption of the Aspergillus fumigatus RNA inteference machinery alters the conidial transcriptome."
 authors:
-- Abdulrahman Kelani
+- Abdulrahman A. Kelani
 - Alexander Bruch
 - Flora Rivieccio
 - Corissa Visser
