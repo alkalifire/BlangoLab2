@@ -1,17 +1,17 @@
 ---
 authors:
-- Nathalie Seiler
+- Akanksha Mourya
 bio:  
-education: 
-email: ""
-#interests:
-#- 
-#- 
-#- 
+education:
+email: "akanksha.mourya@leibniz-hki.de"
+interests:
+- 
+- 
+- 
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/home.html"
-role: Technician
+role: Master's Student
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -26,11 +26,12 @@ social:
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 superuser: false
-title: Nathalie Seiler
+title: Akanksha Mourya
 user_groups:
-- Alumni
+- Researchers
 ---
 
 __Tell me more__
 
-Details coming soon!
+More info coming soon!
+
