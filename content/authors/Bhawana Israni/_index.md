@@ -28,7 +28,7 @@ social:
 superuser: false
 title: Bhawana Israni
 user_groups:
-- On Leave
+- Researchers
 ---
 
 __Tell me more__
