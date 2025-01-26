@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:matthew.blango@leibiz-hki.de'
+    link: 'mailto:matthew.blango@leibniz-hki.de'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mgblango
