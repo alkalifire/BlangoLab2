@@ -1,17 +1,14 @@
 ---
 authors:
-- Swatika Prabakar
+- John Morgenroth
 bio:  
 education:
 email: 
 interests:
-- 
-- 
-- 
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/home.html"
-role: Master's Student
+role: Bachelor's Student
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -26,9 +23,9 @@ social:
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 superuser: false
-title: Swatika Prabakar
+title: John Morgenroth
 user_groups:
-- Alumni
+- Researchers
 ---
 
 __Tell me more__
