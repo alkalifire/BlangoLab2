@@ -25,7 +25,7 @@ social:
 superuser: false
 title: John Morgenroth
 user_groups:
-- Researchers
+- Alumni
 ---
 
 __Tell me more__

@@ -32,7 +32,7 @@ social:
 superuser: false
 title: Alexander Bruch
 user_groups:
-- Researchers
+- Alumni
 ---
 
 __Tell me more__
