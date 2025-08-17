@@ -71,6 +71,6 @@ sections:
         **More importantly**, we are dedicated to providing a rigorous, inclusive, diverse training enviroment for the next generation of budding scientists. In order to facilitate training, we also hope to collaborate widely in the research community. Get in touch if you are interested in setting up a shared lab meeting or pitching a collaborative project!
 
         **Funding Sources**
-        <img src="bmbflogo.jpg"
+        <img src="bmbflogo2.jpg"
             title="Sponsered by the BMBF" width="200" />
 ---
