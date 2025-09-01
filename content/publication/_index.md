@@ -7,5 +7,5 @@ view: citation
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'coders.jpg'
+  image: 'coders2.jpg'
 ---
