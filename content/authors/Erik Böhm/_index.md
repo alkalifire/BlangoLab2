@@ -1,17 +1,16 @@
 ---
 authors:
-- Swatika Prabakar
+- Erik Böhm
 bio:  
 education:
-email: 
+email: "erik.boehm@leibniz-hki.de"
 interests:
-- 
-- 
-- 
+- Innate immunity
+- Pathogenic fungi!
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/home.html"
-role: Laboratory Manager
+role: Doctoral Researcher
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -26,7 +25,7 @@ social:
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 superuser: false
-title: Swatika Prabakar
+title: Erik Böhm
 user_groups:
 - Researchers
 ---

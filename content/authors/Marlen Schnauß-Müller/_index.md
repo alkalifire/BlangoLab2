@@ -1,17 +1,16 @@
 ---
 authors:
-- Swatika Prabakar
+- Marlen Schnauß-Müller
 bio:  
 education:
-email: 
+email: "marlen.schnauss-mueller@leibniz-hki.de"
 interests:
-- 
-- 
-- 
+- Structural Biology
+- Pathogenic fungi!
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/home.html"
-role: Laboratory Manager
+role: Doctoral Researcher
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -26,7 +25,7 @@ social:
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 superuser: false
-title: Swatika Prabakar
+title: Marlen Schnauß-Müller
 user_groups:
 - Researchers
 ---

@@ -1,9 +1,9 @@
 ---
 authors:
-- Swatika Prabakar
+- Talha Maqsood
 bio:  
 education:
-email: 
+email: "talha.maqsood@leibniz-hki.de"
 interests:
 - 
 - 
@@ -11,7 +11,7 @@ interests:
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/home.html"
-role: Laboratory Manager
+role: Master's Student
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -26,7 +26,7 @@ social:
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 superuser: false
-title: Swatika Prabakar
+title: Talha Maqsood
 user_groups:
 - Researchers
 ---
