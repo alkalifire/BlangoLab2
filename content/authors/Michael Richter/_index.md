@@ -30,7 +30,9 @@ user_groups:
 
 __Tell me more__
 
-Michael’s research focuses on RNA biology and host-pathogen interactions, with a particular interest in how the fungal pathogen *Rhizopus oryzae* manipulates host RNA splicing during infection. He completed his PhD in Integrative Plant Biology at the University of Nebraska-Lincoln, USA, where he investigated the role of an acyl-CoA binding protein in its role of regulation membrane fluidity in *Magnaporthe oryzae*. His background is in molecular biology, biochemistry, and bioinformatics, and he’s passionate about uncovering molecular strategies fungi use to colonize and infect their hosts. His broader interests include data-driven life science research and science communication.
 
-Outside the lab, you can find Michael sketching on his graphic tablet, cooking his favorite dishes and editing travel videos.
+Michael studies how fungi interact with their human hosts at the RNA level. His current research investigates how the opportunistic fungal pathogen *Rhizopus oryzae* manipulates host RNA splicing during infection.
 
+He completed his PhD in Integrative Plant Biology from the University of Nebraska-Lincoln, where he elucidated the function of an acyl-CoA binding protein that regulates membrane fluidity in the rice blast fungus *Magnaporthe oryzae*. With a background in molecular biology, biochemistry, and bioinformatics, Michael seeks to uncover the strategies fungi employ to invade their hosts.
+
+Beyond research, he enjoys sketching comic characters, editing travel videos and hiking with friends.
