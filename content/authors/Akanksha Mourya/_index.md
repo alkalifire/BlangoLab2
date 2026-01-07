@@ -3,7 +3,7 @@ authors:
 - Akanksha Mourya
 bio:  
 education:
-email: "akanksha.mourya@leibniz-hki.de"
+email: ""
 interests:
 - 
 - 
@@ -28,7 +28,7 @@ social:
 superuser: false
 title: Akanksha Mourya
 user_groups:
-- Researchers
+- Alumni
 ---
 
 __Tell me more__
