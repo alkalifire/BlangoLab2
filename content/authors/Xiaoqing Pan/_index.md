@@ -28,7 +28,7 @@ social:
 superuser: false
 title: Xiaoqing Pan
 user_groups:
-- Researchers
+- Alumni
 ---
 
 __Tell me more__
