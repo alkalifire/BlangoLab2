@@ -1,31 +1,37 @@
 ---
-title: "Past, Present, and Future of RNA Modifications in Infectious Disease Research"
+title: "Tracking the uptake of labelled host-derived extracellular vesicles by the human fungal pathogen Aspergillus fumigatus"
 authors:
-- Xiaoqing Pan*
-- Alexander Bruch*
+- Corissa Visser
+- Flora Rivieccio
+- Thomas Krüger
+- Franziska Schmidt
+- Zoltán Cseresnyés
+- Manfred Rohde
+- Marc Thilo Figge
+- Olaf Kniemeyer
 - Matthew G. Blango*
-
+- Axel A Brakhage*
 
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2024-11-21"
-doi: "https://doi.org/10.1021/acsinfecdis.4c00598"
+date: "2024-11-06"
+doi: "https://doi.org/10.1093/femsml/uqae022"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-21"
+publishDate: "2024-11-06"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["Journal article"]
+publication_types: ["Uncategorized"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACS Infectious Diseases"
+publication: "microLife"
 publication_short: ""
 
-abstract: "In early 2024, the National Academies of Sciences, Engineering, and Medicine (NASEM) released a roadmap for the future of research into mapping ribonucleic acid (RNA) modifications, which underscored the importance of better defining these diverse chemical changes to the RNA macromolecule. As nearly all mature RNA molecules harbor some form of modification, we must understand RNA modifications to fully appreciate the functionality of RNA. The NASEM report calls for massive mobilization of resources and investment akin to the transformative Human Genome Project of the early 1990s. Like the Human Genome Project, a concerted effort in improving our ability to assess every single modification on every single RNA molecule in an organism will change the way we approach biological questions, accelerate technological advance, and improve our understanding of the molecular world. Consequently, we are also at the start of a revolution in defining the impact of RNA modifications in the context of host–microbe and even microbe–microbe interactions. In this perspective, we briefly introduce RNA modifications to the infection biologist, highlight key aspects of the NASEM report and exciting examples of RNA modifications contributing to host and pathogen biology, and finally postulate where infectious disease research may benefit from this exciting new endeavor in globally mapping RNA modifications."
+abstract: "Extracellular vesicles (EVs) have gained attention as facilitators of intercellular as well as interkingdom communication during host-microbe interactions. Recently we showed that upon infection, host polymorphonuclear leukocytes produce antifungal EVs targeting the clinically important fungal pathogen Aspergillus fumigatus; however, the small size of EVs (< 1 µm) complicates their functional analysis. Here, we employed a more tractable, reporter-based system to label host alveolar epithelial cell-derived EVs and enabled their visualisation during in vitro A. fumigatus interaction. Fusion of EV marker proteins (CD63, CD9, and CD81) with a Nanoluciferase (NLuc) and a green fluorescent protein (GFP) facilitated their relative quantification by luminescence and visualization by a fluorescence signal. The use of an NLuc fused with a GFP is advantageous as it allows for quantification and visualisation of EVs simultaneously without additional external manipulation and to distinguish subpopulations of EVs. Using this system, visualisation and tracking of EVs was possible using confocal laser scanning microscopy and advanced imaging analysis. These experiments revealed the propensity of host cell-derived EVs to associate with the fungal cell wall and ultimately colocalize with the cell membrane of A. fumigatus hyphae in large numbers. In conclusion, we have created a series of tools to better define the complex interplay of host-derived EVs with microbial pathogens."
 
 # Summary. An optional shortened abstract.
 summary: 

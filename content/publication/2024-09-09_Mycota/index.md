@@ -21,7 +21,7 @@ publishDate: "2024-09-09"
 publication_types: ["Book section"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Springer (In Press)"
+publication: "Springer"
 publication_short: ""
 
 abstract: 
