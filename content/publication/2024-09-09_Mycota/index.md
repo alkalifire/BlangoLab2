@@ -18,7 +18,7 @@ publishDate: "2024-09-09"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["Book section"]
+publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Springer"
