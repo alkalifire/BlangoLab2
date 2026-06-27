@@ -30,5 +30,10 @@ user_groups:
 
 __Tell me more__
 
-More info coming soon!
+We are always willing to consider excellent researchers for positions in the laboratory. We regularly support 
+1) Masters students from Friedrich Schiller University Jena
+2) PhD students through fellowships or third party funding sources
+3) Postdocs through fellowships or third party funding sources
+
+If you are interested in writing a postdoctoral fellowship to spend time in the laboratory, please contact Matt. 
 

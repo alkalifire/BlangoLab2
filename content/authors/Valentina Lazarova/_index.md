@@ -32,5 +32,4 @@ user_groups:
 
 __Tell me more__
 
-More info coming soon!
-
+Valentina completed her Masters in Molecular Life Sciences in the group before embarking on a journey as a doctoral researcher as part of the Leibniz Competition Project "FuRTHER". She has a strong interest in tRNA modification biology in _Aspergillus fumigatus_ stemming from her Masters, but now she has expanded her interests to include additional gene regulatory mechanisms, including the emerging RNA:DNA:DNA triple helices as regulators of gene expression. Outside the lab, she enjoys running long distances, among other hobbies. 

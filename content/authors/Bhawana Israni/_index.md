@@ -4,10 +4,7 @@ authors:
 bio:  
 education: 
 #email: "bhawana.israni@leibniz-hki.de"
-#interests:
-#- 
-#- 
-#- 
+interests:
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/home.html"

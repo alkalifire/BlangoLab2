@@ -5,9 +5,6 @@ bio:
 education:
 email: "talha.maqsood@leibniz-hki.de"
 interests:
-- 
-- 
-- 
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/home.html"
@@ -33,5 +30,5 @@ user_groups:
 
 __Tell me more__
 
-More info coming soon!
+Talha is interested in tRNA modifications and their role in drug resistance. He is currently working on completing his Masters thesis in Microbiology with the team.
 
