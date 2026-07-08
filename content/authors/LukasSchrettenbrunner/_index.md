@@ -24,7 +24,7 @@ social:
 superuser: false
 title: Lukas Schrettenbrunner
 user_groups:
-- Researchers
+- Alumni
 ---
 
 __Tell me more__
