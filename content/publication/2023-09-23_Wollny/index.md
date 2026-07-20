@@ -3,10 +3,10 @@ title: "RNA-based sensitive fungal pathogen detection"
 authors:
 - Julia Micheel
 - Franziska Aron
-- Abdulrahman A. Kelani
+- AbdulrahmanKelani
 - Christian Girbardt
 - Grit Walther
-- Matthew G. Blango
+- admin
 - Damian Wollny
 #author_notes:
 #- "Equal contribution"

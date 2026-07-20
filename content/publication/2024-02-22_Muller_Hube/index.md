@@ -14,7 +14,7 @@ authors:
 - Emily L. Priest
 - Deniz Yildirim
 - Jonathan P. Richardson
-- Matthew G. Blango
+- admin
 - Marie-Elisabeth Bougnoux
 - Olaf Kniemeyer
 - Christophe d’Enfert

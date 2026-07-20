@@ -9,11 +9,11 @@ authors:
 - Manfred Rohde
 - Marc Thilo Figge
 - Olaf Kniemeyer
-- Matthew G. Blango*
-- Axel A Brakhage*
+- admin
+- Axel A Brakhage
 
 #author_notes:
-#- "Equal contribution"
+- "Equal contribution: MGB & AAB"
 #- "Equal contribution"
 date: "2024-11-06"
 doi: "https://doi.org/10.1093/femsml/uqae022"

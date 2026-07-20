@@ -1,15 +1,15 @@
 ---
 title: "Advances in molecular tools for elucidating nucleic acid biology in fungal pathogens"
 authors:
-- Lukas Schrettenbrunner*
-- Neshima Mavani*
-- Slavica Janevska#
-- Matthew G. Blango#
+- LukasSchrettenbrunner
+- NeshimaMavani
+- Slavica Janevska
+- admin
 
 
 #author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+- "Equal contribution LS & NM"
+- "Equal contribution SJ & MGB"
 date: "2026-03-15"
 doi: "https://doi.org/10.1093/femsml/uqag008"
 

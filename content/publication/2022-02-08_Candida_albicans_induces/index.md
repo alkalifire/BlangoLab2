@@ -12,7 +12,7 @@ authors:
 - Günter Rambach
 - Melissa Wich
 - Nora Trinks
-- Matthew G. Blango
+- admin
 - Daniel Kornitzer
 - Ulrich Terpitz
 - Cornelia Speth

@@ -2,7 +2,7 @@
 title: "Proteome Analysis Reveals the Conidial Surface Protein CcpA Essential for Virulence of the Pathogenic Fungus Aspergillus"
 authors:
 - Vera Voltersen
-- Matthew G. Blango
+- admin
 - Sahra Herrmann
 - Franziska Schmidt
 - Thorsten Heinekamp
@@ -25,7 +25,7 @@ authors:
 - Utz Reichard
 - Axel A. Brakhage
 #author_notes:
-#- "Equal contribution"
+- "Equal contribution: VV & MGB"
 #- "Equal contribution"
 date: "2018-10-02"
 doi: "https://doi.org/10.1128/mBio.01557-18"

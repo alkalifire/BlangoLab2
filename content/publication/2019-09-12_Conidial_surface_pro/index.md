@@ -1,7 +1,7 @@
 ---
 title: "Conidial surface proteins at the interface of fungal infection"
 authors:
-- Matthew G. Blango
+- admin
 - Olaf Kniemeyer
 - Axel A. Brakhage
 #author_notes:

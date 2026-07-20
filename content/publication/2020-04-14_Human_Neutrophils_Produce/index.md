@@ -14,7 +14,7 @@ authors:
 - Viktoria Szeifert
 - Sandor Nietzsche
 - Theresia Conrad
-- Matthew Blango
+- admin
 - Olaf Kniemeyer
 - Marie von Lilienfeld-Toal
 - Peter Zipfel

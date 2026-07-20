@@ -1,7 +1,7 @@
 ---
 title: "RNA-Biologie von Pilzinfektionen"
 authors:
-- Matthew G. Blango*
+- admin
 
 
 #author_notes:

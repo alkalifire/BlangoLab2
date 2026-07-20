@@ -3,7 +3,7 @@ title: "Repeated treatments with Chitosan in combination with antibiotics comple
 authors:
 - Andreja Erman
 - Veronika Krizan Hergouth
-- Matthew G. Blango
+- admin
 - Mojca Kerec Kos
 - Matthew A. Mulvey
 - Peter Veranic

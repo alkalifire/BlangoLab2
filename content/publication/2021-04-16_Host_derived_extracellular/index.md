@@ -1,13 +1,13 @@
 ---
 title: "Host-derived extracellular vesicles for antimicrobial defense"
 authors:
-- Axel A. Brakhage*
+- Axel A. Brakhage
 - Ann-Kathrin Zimmermann
 - Flora Rivieccio
 - Corissa Visser
-- Matthew G. Blango*
+- admin
 #author_notes:
-#- "Equal contribution"
+- "Equal contribution: AAB & MGB"
 #- "Equal contribution"
 date: "2021-04-16"
 doi: "https://doi.org/10.1093/femsml/uqab003"

@@ -1,13 +1,13 @@
 ---
 title: "Past, Present, and Future of RNA Modifications in Infectious Disease Research"
 authors:
-- Xiaoqing Pan*
-- Alexander Bruch*
-- Matthew G. Blango*
+- XiaoqingPan
+- AlexanderBruch
+- admin
 
 
 #author_notes:
-#- "Equal contribution"
+- "Equal contribution: XP & AB"
 #- "Equal contribution"
 date: "2024-11-21"
 doi: "https://doi.org/10.1021/acsinfecdis.4c00598"

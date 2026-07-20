@@ -1,22 +1,22 @@
 ---
 title: "tRNA hypomodification facilitates 5-fluorocytosine resistance via cross-pathway control system activation in Aspergillus fumigatus."
 authors:
-- Alexander Bruch*
-- Valentina Lazarova*
+- AlexanderBruch
+- ValentinaLazarova
 - Maximilian Berg
 - Thomas Krueger
 - Sascha Schaeuble
-- Abdulrahman A. Kelani
+- AbdulrahmanKelani
 - Birte Mertens
-- Pamela Lehengerber
+- PamelaLehengerber
 - Olaf Kniemeyer
 - Stefanie Kaiser
 - Gianni Panagiotou
 - Fabio Gsaller
-- Matthew G. Blango
+- admin
 
 #author_notes:
-#- "Equal contribution"
+- "Equal contribution: AB & VL"
 #- "Equal contribution"
 date: "2024-12-23"
 doi: "https://doi.org/10.1093/nar/gkae1205"

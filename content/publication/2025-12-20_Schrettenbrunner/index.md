@@ -1,11 +1,11 @@
 ---
 title: "Comprehensive mapping of the 5' and 3' untranslated regions of Aspergillus fumigatus reveals diverse mechanisms of mRNA processing including premature transcription termination"
 authors:
-- Lukas Schrettenbrunner
+- LukasSchrettenbrunner
 - Corinne Maufrais
 - Guilhem Janbon
 - Edward W. J. Wallace
-- Matthew G. Blango
+- admin
 
 
 #author_notes:

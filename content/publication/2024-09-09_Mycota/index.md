@@ -1,12 +1,12 @@
 ---
 title: "RNA as a mediator of host-fungal pathogenesis"
 authors:
-- Alexander Bruch*
-- Matthew G. Blango*
+- AlexanderBruch
+- admin
 
 
 #author_notes:
-#- "Equal contribution"
+- "Equal contribution"
 #- "Equal contribution"
 date: "2024-09-09"
 doi: ""

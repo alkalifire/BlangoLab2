@@ -1,11 +1,11 @@
 ---
 title: "RNA-based therapeutics to treat human fungal infections"
 authors:
-- Alexander Bruch*
-- Abdulrahman A. Kelani*
-- Matthew G. Blango
+- AlexanderBruch
+- AbdulrahmanKelani
+- admin
 #author_notes:
-#- "Equal contribution"
+- "Equal contribution: AB & AAK"
 #- "Equal contribution"
 date: "2021-10-08"
 doi: "https://doi.org/10.1016/j.tim.2021.09.007"

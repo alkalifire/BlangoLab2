@@ -1,9 +1,9 @@
 ---
 title: "A tRNA modifying enzyme as a tunable regulatory nexus for bacterial stress responses and virulence"
 authors:
-- Brittany A. Fleming*
-- Matthew G. Blango*
-- Alexis A. Rousek*
+- Brittany A. Fleming
+- admin
+- Alexis A. Rousek
 - William M. Kincannon
 - Alexander Tran
 - Adam J. Lewis
@@ -18,7 +18,7 @@ authors:
 - Michael T. Howard
 - Matthew A. Mulvey
 #author_notes:
-#- "Equal contribution"
+- "Equal contribution: BAF, MGB, AAR"
 #- "Equal contribution"
 date: "2022-02-25"
 doi: "https://doi.org/10.1093/nar/gkac116"

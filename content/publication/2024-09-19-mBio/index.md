@@ -1,13 +1,13 @@
 ---
 title: "RNA:DNA triplexes: a mechanism for epigenetic communication between hosts and microbes?"
 authors:
-- Holger Bierhoff*
-- Amelia E. Barber*
-- Matthew G. Blango*
+- Holger Bierhoff
+- Amelia E. Barber
+- admin
 
 
 #author_notes:
-#- "Equal contribution"
+- "Equal contribution"
 #- "Equal contribution"
 date: "2024-09-19"
 doi: "https://doi.org/10.1128/mbio.01982-24"

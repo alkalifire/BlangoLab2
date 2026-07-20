@@ -1,16 +1,16 @@
 ---
 title: "An Improved Description of the Small RNA Landscape of the Human Fungal Pathogen Aspergillus fumigatus"
 authors:
-- Xiaoqing Pan*
-- Abdulrahman A. Kelani*
-- Lukas Schrettenbrunner
-- Swatika Prabakar
-- Bhawana Israni
-- Matthew G. Blango
+- XiaoqingPan
+- AbdulrahmanKelani
+- LukasSchrettenbrunner
+- SwatikaPrabakar
+- BhawanaIsrani
+- admin
 
 
 #author_notes:
-#- "Equal contribution"
+- "Equal contribution: XP & AAK"
 #- "Equal contribution"
 date: "2026-01-02"
 doi: "https://doi.org/10.1111/mmi.70042"

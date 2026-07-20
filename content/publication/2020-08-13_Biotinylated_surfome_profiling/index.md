@@ -3,7 +3,7 @@ title: "Biotinylated surfome profiling identifies potential biomarkers for diagn
 authors:
 - Lei-Jie Jia
 - Thomas Krueger
-- Matthew G. Blango
+- admin
 - Ferdinand von Eggeling
 - Olaf Kniemeyer
 - Axel A. Brakhage

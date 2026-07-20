@@ -4,7 +4,7 @@ authors:
 - Andreja Erman
 - Katja Lakota
 - Katjusa Mrak-Poljsak
-- Matthew G. Blango
+- admin
 - Veronika Krizan-Hergouth
 - Matthew A. Mulvey
 - Snezna Sodin-Semrl

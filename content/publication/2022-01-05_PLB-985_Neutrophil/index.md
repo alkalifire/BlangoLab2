@@ -9,7 +9,7 @@ authors:
 - Thomas Krüger
 - Katherine González
 - Olaf Kniemeyer
-- Matthew G. Blango
+- admin
 - Axel A. Brakhage
 #author_notes:
 #- "Equal contribution"

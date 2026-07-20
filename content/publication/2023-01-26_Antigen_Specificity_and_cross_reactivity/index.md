@@ -19,7 +19,7 @@ authors:
 - Hilmar Wisplinghoff
 - Frank Ebel
 - Lei-Jie Jia
-- Matthew G. Blango
+- admin
 - Peter Hortschansky
 - Sascha Brunke
 - Bernhard Hube
