@@ -1,9 +1,8 @@
 ---
-authors:
-- Bhawana Israni
+title: Bhawana Israni
 bio:  
 education: 
-#email: "bhawana.israni@leibniz-hki.de"
+email: "bhawana.israni@leibniz-hki.de"
 interests:
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)

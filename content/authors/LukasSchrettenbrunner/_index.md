@@ -1,6 +1,5 @@
 ---
-authors:
-- Lukas Schrettenbrunner
+Title: Lukas Schrettenbrunner
 bio:  
 education:
 email: ""

@@ -1,6 +1,5 @@
 ---
-authors:
-- Next Student
+Title: Next Student
 bio:  
 education:
 email: 

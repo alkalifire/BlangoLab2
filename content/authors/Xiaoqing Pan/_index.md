@@ -1,6 +1,5 @@
 ---
-authors:
-- Xiaoqing Pan
+Title: Xiaoqing Pan
 bio:  
 education:
 email: ""

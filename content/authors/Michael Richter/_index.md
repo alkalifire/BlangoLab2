@@ -1,6 +1,5 @@
 ---
-authors:
-- Michael Richter
+Title: Michael Richter
 bio:  
 education:
 email: 

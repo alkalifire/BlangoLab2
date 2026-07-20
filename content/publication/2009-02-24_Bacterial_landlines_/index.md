@@ -1,7 +1,7 @@
 ---
 title: "Bacterial landlines: contact-dependent signaling in bacterial populations"
 authors:
-- Matthew Blango
+- Matthew G. Blango
 - Matthew A. Mulvey
 #author_notes:
 #- "Equal contribution"

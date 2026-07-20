@@ -1,6 +1,5 @@
 ---
-authors:
-- Fabian Alexander Thieß
+Title: Fabian Alexander Thieß
 bio:  
 education:
 email: 

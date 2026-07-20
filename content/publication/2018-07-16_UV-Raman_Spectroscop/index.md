@@ -3,7 +3,7 @@ title: "UV-Raman Spectroscopic Identification of Fungal Spores Important for Res
 authors:
 - Olga Zukovskaja
 - Sandra Kloss
-- Matthew Blango
+- Matthew G. Blango
 - Oleg Ryabchykov
 - Olaf Kniemeyer
 - Axel A. Brakhage

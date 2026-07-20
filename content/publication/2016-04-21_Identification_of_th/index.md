@@ -1,7 +1,7 @@
 ---
 title: "Identification of the long, edited dsRNAome of LPS-stimulated immune cells"
 authors:
-- Matthew Blango
+- Matthew G. Blango
 - Brenda L. Bass
 #author_notes:
 #- "Equal contribution"

@@ -1,6 +1,5 @@
 ---
-authors:
-- Talha Maqsood
+Title: Talha Maqsood
 bio:  
 education:
 email: "talha.maqsood@leibniz-hki.de"

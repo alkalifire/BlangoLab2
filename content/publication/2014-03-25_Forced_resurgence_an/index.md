@@ -1,7 +1,7 @@
 ---
 title: "Forced resurgence and targeting of intracellular uropathogenic Escherichia coli reservoirs"
 authors:
-- Matthew Blango
+- Matthew G. Blango
 - Elizabeth M. Ott
 - Andreja Erman
 - Peter Veranic

@@ -1,6 +1,5 @@
 ---
-authors:
-- Marlen Schnauß-Müller
+Title: Marlen Schnauß-Müller
 bio:  
 education:
 email: "marlen.schnauss-mueller@leibniz-hki.de"

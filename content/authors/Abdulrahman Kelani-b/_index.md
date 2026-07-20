@@ -1,6 +1,5 @@
 ---
-authors:
-- Abdulrahman Kelani
+Title: Abdulrahman Kelani
 bio: My research interests are centered on the small RNA generating machinery of _Aspergillus fumigatus_. 
 education:
 email: "abdulrahman.kelani@leibniz-hki.de"

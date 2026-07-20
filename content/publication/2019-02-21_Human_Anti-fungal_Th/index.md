@@ -5,7 +5,7 @@ authors:
 - Thordis Hohnstein
 - Eva Beerbaum
 - Marie Rocker
-- Matthew Blango
+- Matthew G. Blango
 - Svenja Kaufmann
 - Jobst Rohmel
 - Patience Eschenhagen

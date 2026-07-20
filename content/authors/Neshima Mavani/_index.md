@@ -1,6 +1,5 @@
 ---
-authors:
-- Neshima Mavani
+Title: Neshima Mavani
 bio:  
 education:
 email: ""

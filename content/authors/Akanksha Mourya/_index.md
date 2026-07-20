@@ -1,6 +1,5 @@
 ---
-authors:
-- Akanksha Mourya
+Title: Akanksha Mourya
 bio:  
 education:
 email: ""

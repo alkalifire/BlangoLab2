@@ -6,7 +6,7 @@ authors:
 - Thomas Krüger
 - Hans‐Martin Dahse
 - Zoltán Cseresnyés
-- Matthew Blango
+- Matthew G. Blango
 - Hortense Slevogt
 - Franziska Hörhold
 - Volker Ast

@@ -1,6 +1,5 @@
 ---
-authors:
-- Pamela Lehenberger
+Title: Pamela Lehenberger
 bio:  
 education: 
 #email: ""

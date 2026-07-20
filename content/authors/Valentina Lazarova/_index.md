@@ -1,6 +1,5 @@
 ---
-authors:
-- Valentina Lazarova
+Title: Valentina Lazarova
 bio:  
 education:
 email: "valentina.lazarova@leibniz-hki.de"

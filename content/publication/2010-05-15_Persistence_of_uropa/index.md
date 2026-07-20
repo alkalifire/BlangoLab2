@@ -1,7 +1,7 @@
 ---
 title: "Persistence of uropathogenic Escherichia coli in the face of multiple antibiotics"
 authors:
-- Matthew Blango
+- Matthew G. Blango
 - Matthew A. Mulvey
 #author_notes:
 #- "Equal contribution"

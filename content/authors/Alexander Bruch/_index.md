@@ -1,6 +1,5 @@
 ---
-authors:
-- Alexander Bruch
+Title: Alexander Bruch
 bio:  
 education: 
 email: "alexander.bruch@leibniz-hki.de"

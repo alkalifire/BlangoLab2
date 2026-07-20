@@ -1,6 +1,5 @@
 ---
-authors:
-- Matthew Blango
+Title: Matthew G. Blango
 bio:  
 education:
   courses:

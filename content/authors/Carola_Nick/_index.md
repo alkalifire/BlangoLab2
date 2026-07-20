@@ -1,6 +1,5 @@
 ---
-authors:
-- Carola Nick
+Title: Carola Nick
 bio:  
 education:
 email: "carola.nick@leibniz-hki.de"

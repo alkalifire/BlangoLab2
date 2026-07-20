@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Surface Proteomes of Allergenic Fungal Conidia"
 authors:
-- Matthew Blango
+- Matthew G. Blango
 - Annica Pschibul
 - Flora Rivieccio
 - Thomas Krueger

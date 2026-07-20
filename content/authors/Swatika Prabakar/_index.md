@@ -1,6 +1,5 @@
 ---
-authors:
-- Swatika Prabakar
+Title: Swatika Prabakar
 bio:  
 education:
 email: 

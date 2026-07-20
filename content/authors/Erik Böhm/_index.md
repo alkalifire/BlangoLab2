@@ -1,6 +1,5 @@
 ---
-authors:
-- Erik Böhm
+Title: Erik Böhm
 bio:  
 education:
 email: "erik.boehm@leibniz-hki.de"

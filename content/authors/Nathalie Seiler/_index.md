@@ -1,6 +1,5 @@
 ---
-authors:
-- Nathalie Seiler
+Title: Nathalie Seiler
 bio:  
 education: 
 email: ""

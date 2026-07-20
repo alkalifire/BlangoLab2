@@ -1,6 +1,5 @@
 ---
-authors:
-- John Morgenroth
+Title: John Morgenroth
 bio:  
 education:
 email: 
