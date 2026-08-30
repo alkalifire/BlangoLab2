@@ -1,40 +1,42 @@
 ---
-title: "Characterization of tRNA ligase function in pathogenic fungi and trypanosomes reveals the ligase domain as a promising drug target"
+title: "Host-to-Pathogen Transfer of Neutrophil Components via Extracellular Vesicles Shields Candida albicans from Immune Attack in Human Blood"
 authors:
-- Khondakar Sayef Ahammed 
-- Pedro Miramon
-- Lukas Schrettenbrunner
-- Melissa R Cruz
-- Eun Young Huh
-- Huiqing Hu
-- Bhawana Israni
-- Hannah B. Wilson
-- Ziyin Li
-- Soo Chan Lee
-- Matthew G. Blango
-- Danielle A. Garsin
-- Michael C. Lorenz
-- Ambro van Hoof
+- Jennifer J. Patitz
+- Natalie E. Nieuwenhuizen
+- Anastasia Solomatina
+- Yann Bachelot
+- Thomas Krüger
+- Carl-Magnus Svensson
+- Stephanie Hoeppener
+- Ann-Kathrin Zimmermann
+- MatthewG.Blango
+- Ronny Martin
+- Olaf Kniemeyer
+- Theresa Lange
+- Axel A. Brakhage
+- Marc Thilo Figge
+- Oliver Kurzai
+- Kerstin Hünniger-Ast
 
 #author_notes:
 #- "Equal contribution"
-date: "2026-08-26"
-doi: "https://doi.org/10.64898/2026.08.16.745097"
+date: "2026-08-29"
+doi: "https://doi.org/10.1002/jev2.70363"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-08-26"
+publishDate: "2026-08-29"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["preprint"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv, https://doi.org/10.64898/2026.08.16.745097"
+publication: "Journal of Extracellular Vesicles, https://doi.org/10.1002/jev2.70363"
 publication_short: ""
 
-abstract: The majority of eukaryotes encode some intron-containing pre-tRNAs. Splicing of these pre-tRNAs requires a dedicated tRNA splicing machinery. The fungal and trypanosome tRNA ligase, Trl1, and the human RNA ligase, RTCB, catalyze an essential step in tRNA splicing. However, Trl1 and RTCB are nonhomologous and biochemically and structurally distinct from each other. Therefore, Trl1 could serve as a broad-spectrum antifungal and anti-trypanosomal target. While the functions and requirements of the three catalytic Trl1 domains have been extensively characterized in the model yeast Saccharomyces cerevisiae, the roles of Trl1 orthologs in pathogenic fungi remain unexplored. Here, we validate Trl1 as one of the few promising novel drug targets for the development of antifungal therapeutics. Functional analyses of the three Trl1 domains show that only the “sealing” domain is essential for growth and viability in Candida albicans and Aspergillus fumigatus. In contrast, the two “healing” domains are dispensable in these pathogenic fungi, suggesting the presence of redundant healing enzymes, unlike in S. cerevisiae. These findings indicate that only the sealing domain is a good drug target. Our analysis also shows that the Mucor enzyme, which only contains the sealing domain, is essential. Using a Caenorhabditis elegans infection model of C. albicans, we further demonstrated that inhibiting Trl1 expression protects worms during an established infection. In contrast to these fungal pathogens, we show that all three domains of Trl1 are essential in Trypanosoma brucei. Our findings show that the essentiality of the Trl1 sealing is conserved in important human pathogens and provides an impetus for future drug development.
+abstract: In tissues, neutrophils neutralize Candida albicans through phagocytosis and delay C. albicans hyphae growth by deploying neutrophil extracellular traps (NETs). However, in the bloodstream, the dynamic interactions between NETs and C. albicans are far less understood. Here, we employ a microfluidic assay and measure a significant increase in intact NETs in blood within 3 h after adding C. albicans yeast or hyphae. We show that C. albicans yeast can be captured efficiently on NETs, thereby delaying the transition to hyphal growth. We measure higher amounts of intact NETs in blood samples from invasive candidiasis patients compared to healthy participants, both with and without stimulation. These findings suggest that both C. albicans yeast and hyphae in the bloodstream stimulate NET release, potentially aiding in their removal from the blood.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -46,7 +48,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.64898/2026.08.16.745097
+url_pdf: https://doi.org/10.1002/jev2.70363
 url_code: ''
 url_dataset: ''
 url_poster: ''
