@@ -22,10 +22,10 @@ education:
   courses:
     - course: PhD in Microbiology and Immunology
       institution: University of Utah
-      year: 2016
+      year: 2012
     - course: BA in Biochemistry and Molecular Biology
       institution: Boston University
-      year: 2012
+      year: 2006
       
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
