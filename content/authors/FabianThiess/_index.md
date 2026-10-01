@@ -24,7 +24,7 @@ social:
 superuser: false
 title: Fabian Alexander Thieß
 user_groups:
-- Researchers
+- Alumni
 ---
 
 __Tell me more__
