@@ -7,7 +7,7 @@ interests:
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/home.html"
-role: Bachelor's Student
+role: Master's Student
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -24,7 +24,7 @@ social:
 superuser: false
 title: John Morgenroth
 user_groups:
-- Alumni
+- Researchers
 ---
 
 __Tell me more__
